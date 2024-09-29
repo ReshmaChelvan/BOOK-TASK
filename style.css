@@ -1,0 +1,11 @@
+.flex{ 
+    display: flex;
+}
+abbr[title] {
+    border-bottom: none !important;
+    cursor: default !important;
+}
+.font { 
+    font-style: italic;
+    color: rgb(47, 245, 205) !important;
+}
